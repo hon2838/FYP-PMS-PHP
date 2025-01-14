@@ -192,8 +192,6 @@ Common issues and solutions:
 
 For technical support:
 - Create an issue in the repository
-- Email: support@soc.edu
-- Documentation: `/docs`
 
 ## Contributing
 
