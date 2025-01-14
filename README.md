@@ -202,5 +202,3 @@ For technical support:
    - ESLint for JavaScript
    - Document all changes
 4. Submit pull request
-
-```
